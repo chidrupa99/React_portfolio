@@ -1,0 +1,50 @@
+.Skills{
+    background-color: #F5F5F5;
+    padding: 60px;
+}
+
+.skills--container{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Skills h1{
+    /* Work Experience */    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 100%;
+    color: #5A5A5A;
+    margin-bottom: 40px;
+}
+
+.skills--List div{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #5A5A5A;
+}
+
+.skills--List{
+    /* Storyboarding Journey Mapping Survey Design Heuristic Evaluation Usability Testing Content Management System Search Engine Optimisation Learning Management System Contextual Inquiry User Interviews Focus Group Moderation */
+    width: 300px;    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 200%;
+    text-align: center;
+    color: #5A5A5A;
+}
+
+.skills--List ul{
+    padding-left: 0;
+}
+
+.skills--List ul li{
+    list-style-type: none;
+}

@@ -1,0 +1,60 @@
+    .Banner{
+        max-width: 1050px;
+        margin: 0px auto 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        text-align: left;
+    }
+
+    .Banner--content{
+        margin-left: 24px;
+    }
+  
+    .Banner--content h1{
+        /* Hi, I am Chidrupa!✌🏼 */
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 100%;
+        color: #202020;
+        margin-top: 0px;
+        margin-bottom: 14px;
+    }
+
+    .Banner--content h2{
+        /* A UX / Product Designer with a Developer’s lens! */
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 168%;
+        color: #202020;
+        margin-top: 0px;
+        margin-bottom: 6px;
+    }
+
+    .Banner--content h2 span{
+        /* A UX / Product Designer with a Developer’s lens! */
+        font-weight: 700;
+        color: #548feb;
+    }
+
+    .Banner--content h3{
+        /* With a background in UX Research, Design, Front-End Development, and Content Writing, I have a holistic approach towards Product design and Problem-solving. */
+        width: 665px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 200%;
+        color: #202020;
+        margin-top: 0px;
+        margin-bottom: 6px;
+    }
+
+    .Banner--content h3 span{
+        /* With a background in UX Research, Design, Front-End Development, and Content Writing, I have a holistic approach towards Product design and Problem-solving. */
+        font-weight: 600;
+    }

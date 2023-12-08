@@ -1,0 +1,29 @@
+.Projects{
+    max-width: 1020px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+ .Projects img{
+    padding: 10px;
+    will-change: transform;
+    transform: perspective(1500px) rotateX(0deg) rotateY(0deg);
+ }
+
+ .Projects .large:hover{
+    transform: perspective(1500px) rotateY(3deg);
+    transition: transform .7s;
+ }
+
+ .Projects .small:hover{
+   transform: perspective(1500px) rotateY(6deg);
+   transition: transform .5s;
+}
+
+ .large{
+   max-width: 660px;
+}
+
+.small{
+   max-width: 320px;
+}

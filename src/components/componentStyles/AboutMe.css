@@ -1,0 +1,51 @@
+
+.AboutMe{
+    width: 80%;
+    margin: 0px auto 120px auto;
+  }
+  
+  
+  .AboutMe img{
+    width: 200px;
+  }
+  
+  .AboutMe p{
+    margin: 0px 0px 12px 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 200%;
+    text-align: left;
+    color: #5A5A5A;
+  }
+
+  .AboutMe p a{
+    text-decoration: none;
+    font-weight: 700;
+    color: #5A5A5A;
+  }
+
+  .AboutMe h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 100%;
+    color: #202020;
+    margin-bottom: 40px;
+    padding-top: 20px;
+  }
+
+  .About_content_div{
+    display: flex;
+    background-color: #f5f5f5;
+    padding: 40px;
+    border-radius: 150px 10px 10px 10px;
+  }
+
+  .About_content{
+    padding-left: 40px; 
+    line-height: 32px; 
+    text-align: left;
+  }

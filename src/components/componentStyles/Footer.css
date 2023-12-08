@@ -1,0 +1,31 @@
+.Footer{
+    background-color: #333;
+    padding: 20px;
+}
+
+.Behance{
+    width: 38px;
+    padding: 20px;
+}
+
+.Linkedin{
+    width: 30px;
+    padding: 20px;
+}
+
+.Email{
+    width: 33.33px;
+    padding: 20px;
+}
+
+.Medium{
+    width: 30px;
+    padding: 20px;
+}
+
+.copyright{
+    color: rgb(205, 205, 205);
+    padding-top: 30px;
+    font-size: 12px;
+    font-style: italic;
+}
