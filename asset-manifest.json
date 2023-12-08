@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_portfolio/static/css/main.1f82ce28.css",
-    "main.js": "/React_portfolio/static/js/main.0052659e.js",
+    "main.css": "/React_portfolio/static/css/main.9265bb51.css",
+    "main.js": "/React_portfolio/static/js/main.20994c17.js",
     "static/js/787.1c014569.chunk.js": "/React_portfolio/static/js/787.1c014569.chunk.js",
     "static/media/Chidrupa_img.png": "/React_portfolio/static/media/Chidrupa_img.81ae9047d983683d8eef.png",
     "static/media/LassiAndSpice.png": "/React_portfolio/static/media/LassiAndSpice.3643093a56482954b6d0.png",
@@ -12,16 +12,16 @@
     "static/media/Jerry.png": "/React_portfolio/static/media/Jerry.3d15c617c2dd73cf28a7.png",
     "static/media/Shrinidhi_img.png": "/React_portfolio/static/media/Shrinidhi_img.b341b187d69745d4615e.png",
     "static/media/BannerImage.png": "/React_portfolio/static/media/BannerImage.7225e8f895fd715fbd10.png",
-    "static/media/WorkExperienceImg.png": "/React_portfolio/static/media/WorkExperienceImg.632c399b7709dc9cd059.png",
+    "static/media/WorkExperienceImg.png": "/React_portfolio/static/media/WorkExperienceImg.7a34cc5df3be42aa8473.png",
     "static/media/Dora_img.png": "/React_portfolio/static/media/Dora_img.269852b2f9599e328d8d.png",
     "static/media/Susannah_img.png": "/React_portfolio/static/media/Susannah_img.b8050d904705960e365b.png",
     "index.html": "/React_portfolio/index.html",
-    "main.1f82ce28.css.map": "/React_portfolio/static/css/main.1f82ce28.css.map",
-    "main.0052659e.js.map": "/React_portfolio/static/js/main.0052659e.js.map",
+    "main.9265bb51.css.map": "/React_portfolio/static/css/main.9265bb51.css.map",
+    "main.20994c17.js.map": "/React_portfolio/static/js/main.20994c17.js.map",
     "787.1c014569.chunk.js.map": "/React_portfolio/static/js/787.1c014569.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f82ce28.css",
-    "static/js/main.0052659e.js"
+    "static/css/main.9265bb51.css",
+    "static/js/main.20994c17.js"
   ]
 }
